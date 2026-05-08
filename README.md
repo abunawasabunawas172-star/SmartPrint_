@@ -17,4 +17,4 @@ Lihat hasil karyanya di sini: [Klik untuk Buka SmartPrint_](https://abunawasabun
 * **GitHub Pages** sebagai layanan hosting.
 ![Tampilan SmartPrint_](Screenshot%202026-05-08%20224200.png)
 ---
-*Dibuat dengan ❤️ oleh [Rezeki Salsabilah]*
+*Dibuat dengan ❤️ oleh [Rezeki Salsabilah](https://www.linkedin.com/in/arezz-kyy-18b856340/)*
